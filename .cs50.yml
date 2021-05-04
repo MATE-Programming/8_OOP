@@ -5,5 +5,7 @@ lab50:
     - terminal
   files:
     - !include instruction.txt
-    - !include scratch.py
+    - !include problem1.py
+    - !include problem2.py
+    - !include problem3.py
     
